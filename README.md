@@ -13,7 +13,7 @@
 ## Resources:
 
 - [https://syhack.wordpress.com/2019/09/23/iot-pentesting-approach-methods/](https://syhack.wordpress.com/2019/09/23/iot-pentesting-approach-methods/) #Big repo with many links to other resources
-- [https://github.com/scriptingxss/owasp-fstm](https://github.com/scriptingxss/owasp-fstm) #owasp firmware testing metodologi
+- [https://github.com/scriptingxss/owasp-fstm](https://github.com/scriptingxss/owasp-fstm) #owasp firmware testing methodology
 - [https://github.com/arunmagesh/hw_hacking_cheatsheet](https://github.com/arunmagesh/hw_hacking_cheatsheet) #hardware reverse cheatsheet
 - [https://github.com/phodal/awesome-iot/#library](https://github.com/phodal/awesome-iot/#library) #big library of tools and resources about creating IoT gadgets and software. Mb useful info about protocols
 - [https://github.com/arthastang/IoT-Implant-Toolkit](https://github.com/arthastang/IoT-Implant-Toolkit) #toolkit is included a few tools for research of IoT devices, port debugging, firmware unpack&pack
