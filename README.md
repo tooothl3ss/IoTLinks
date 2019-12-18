@@ -13,6 +13,8 @@
 ## Resources:
 
 - [https://syhack.wordpress.com/2019/09/23/iot-pentesting-approach-methods/](https://syhack.wordpress.com/2019/09/23/iot-pentesting-approach-methods/) #Big repo with many links to other resources
+- [https://blog.mindedsecurity.com/2018/09/pentesting-iot-devices-part-1-static.html](https://blog.mindedsecurity.com/2018/09/pentesting-iot-devices-part-1-static.html) #Static analyze firmware
+- [https://docs.espressif.com/projects/esp-idf/en/latest/](https://docs.espressif.com/projects/esp-idf/en/latest/) #documentation for Espressif IoT Development Framework chip ESP32
 - [https://github.com/scriptingxss/owasp-fstm](https://github.com/scriptingxss/owasp-fstm) #owasp firmware testing methodology
 - [https://github.com/arunmagesh/hw_hacking_cheatsheet](https://github.com/arunmagesh/hw_hacking_cheatsheet) #hardware reverse cheatsheet
 - [https://github.com/phodal/awesome-iot/#library](https://github.com/phodal/awesome-iot/#library) #big library of tools and resources about creating IoT gadgets and software. Mb useful info about protocols
