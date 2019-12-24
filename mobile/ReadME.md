@@ -74,5 +74,8 @@ After that you should see all requests from com.necessary.app in Burp Suite
 #### External links
 
 [Universal Android SSL Pinning Bypass with Frida](https://codeshare.frida.re/@pcipolloni/universal-android-ssl-pinning-bypass-with-frida/)
+
 [Root detection & SSL pinning bypass with Frida Framework](https://medium.com/@buff3r/root-detection-ssl-pinning-bypass-with-frida-framework-31769d31723a)
+
 [Configuring Burp Suite with Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
+
