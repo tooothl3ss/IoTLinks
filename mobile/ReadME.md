@@ -59,7 +59,7 @@ frida-ps -U
 Start necessary application with SSL pining bypass:
 
 ```
-frida -l root-ssl-pin-bypass.js -U -f com.necessary.app --no-pause
+frida -l js-script-sslbypass.js -U -f com.necessary.app --no-pause
 ```
 
 Note: js-script should be located in directory where you start this command.
