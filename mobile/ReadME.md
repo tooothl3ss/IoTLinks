@@ -38,3 +38,34 @@ reboot
 ```
 After full phone reboot check your certificate in _Settings -> Security -> Trusted Credentials_
 Configuring phone done, now will add cert in Burp and collect requests from phone.
+
+#### SSL pining bypass using frida
+
+Get certificate from Burp Suite and send it to phone in /data/local/tmp/ but you should change name of cert on phone to cert-der.crt or change name cert in js-script.
+Get frida-server and js-script for ssl pining bypass and also send to phone in /data/local/tmp/.
+Change permissions for frida server and start it, use next commands:
+
+```
+adb shell chmod +x /data/local/tmp/frida-server
+adb shell ./data/local/tmp/frida-server &
+```
+
+Get list of working application on phone
+
+```
+frida-ps -U
+```
+
+Start necessary application with SSL pining bypass:
+
+```
+frida -l root-ssl-pin-bypass.js -U -f com.necessary.app --no-pause
+```
+
+Note: js-script should be located in directory where you start this command.
+
+After that you should see all requests from com.necessary.app in Burp Suite
+
+#TODO
+## Add iOS option
+## Add way for BLE requests analize
