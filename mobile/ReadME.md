@@ -11,7 +11,7 @@ Because often for controlling device your phone should be in same network (WiFi)
 
 For interception requests from application we should configure proxy on our WiFi connection, but that would we can get nessesary requests from application in Burp Suite we should install certificate on phone or use script for ssl unpining for frida. 
 
-For installing certificat on the system, in order it would be used by all applications we create new certificate for valid period one year and add it in trusted on phone and add it to Burp Suite.
+For installing certificate on the system, in order it would be used by all applications we create new certificate for valid period one year and add it in trusted on phone and add it to Burp Suite.
 
 #### Installing certificate in system
 Making new certificate:
