@@ -66,6 +66,6 @@ Note: js-script should be located in directory where you start this command.
 
 After that you should see all requests from com.necessary.app in Burp Suite
 
-#TODO
-## Add iOS option
-## Add way for BLE requests analize
+# TODO
+* Add iOS option
+* Add way for BLE requests analize
