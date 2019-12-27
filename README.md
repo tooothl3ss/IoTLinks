@@ -26,6 +26,10 @@
 - [https://www.mikroe.com/blog/uart-serial-communication](https://www.mikroe.com/blog/uart-serial-communication) #protocol uart
 - [https://blog.senr.io/blog/jtag-explained](https://blog.senr.io/blog/jtag-explained) #protocol jtag
 
+## Interesting tools
+
+- [https://fkie-cad.github.io/FACT_core/](https://fkie-cad.github.io/FACT_core/) #The Firmware Analysis and Comparison Tool
+
 ## Labs / CTF:
 
 - [https://github.com/hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf) #ble lab
